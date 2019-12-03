@@ -112,7 +112,7 @@
             
             @media screen and (max-width: 700px) {
                 .container-main {
-                    height: 120vh;
+                    height: 100vh;
                 }
                 .container-1 {
                     width: 240px;
